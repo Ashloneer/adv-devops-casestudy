@@ -8,6 +8,6 @@ function addDuplicated(a, b) {
 
 function addWithErrors(a, b) {
     let result = a + b;
-    console.log(result + c); // 'c' is not defined
+    console.log(result + c); 
     return result;
 }
