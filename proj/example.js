@@ -7,4 +7,4 @@ function addDuplicated(a, b) {
 }
 
 console.log(add(1, 2)); // Outputs: 3
-console.log(addDuplicated(1, 2)); // Outputs: 3
+// console.log(addDuplicated(1, 2)); // Outputs: 3
