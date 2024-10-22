@@ -6,5 +6,8 @@ function addDuplicated(a, b) {
     return a + b;
 }
 
-console.hello(add(1, 2)); // Outputs: 3
-console.log(addDuplicated(1, 2)); // Outputs: 3
+function addWithErrors(a, b) {
+    let result = a + b;
+    console.log(result + c); // 'c' is not defined
+    return result;
+}
